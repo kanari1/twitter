@@ -23,11 +23,15 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+## GIF 1: User sees app icon in home screen and styled launch screen, user can log in, user can log out
 ![](https://i.imgur.com/2FXTVOo.gif)
 
 ![](https://i.imgur.com/lXSrmVJ.gif)
 
+## GIF 2: User stays logged in across restarts 
 ![](https://i.imgur.com/sZKyzFp.gif)
 
+## GIF 3: User can view tweets with user profile picture, username, and tweet text.  
+##        User can pull to refresh.  User can load past tweets infinitely. 
 ![](https://i.imgur.com/KDVlI26.gif)
 
