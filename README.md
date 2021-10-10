@@ -31,7 +31,6 @@ Here's a walkthrough of implemented user stories:
 ## GIF 2: User stays logged in across restarts 
 ![](https://i.imgur.com/sZKyzFp.gif)
 
-## GIF 3: User can view tweets with user profile picture, username, and tweet text.  
-##        User can pull to refresh.  User can load past tweets infinitely. 
+## GIF 3: User can view tweets with user profile picture, username, and tweet text. User can pull to refresh.  User can load past tweets infinitely. 
 ![](https://i.imgur.com/KDVlI26.gif)
 
